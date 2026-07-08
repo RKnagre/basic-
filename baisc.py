@@ -37,7 +37,7 @@ c=int(input("Enter third number: "))
 
 average=(a+b+c)/3
 print("Average of numbers= ",average)
-"""
+
 #find the percentage from marks of student!...
 english=int(input("English marks: "))
 maths=int(input("Maths marks: "))
